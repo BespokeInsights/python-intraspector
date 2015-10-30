@@ -1,4 +1,6 @@
 # Python Intraspector
+[![PyPI version](https://badge.fury.io/py/intraspector.svg)](https://badge.fury.io/py/intraspector)
+
 This project is currently under development. APIs will change.
 
 ## Example Usage
