@@ -6,7 +6,7 @@ This project is currently under development. APIs will change.
 ## Example Usage
 Declare Intraspector object
 ```python
-from python-intraspector import Intraspector
+from intraspector import Intraspector
 global intraspector
 intraspector = Intraspector()
 ```
@@ -34,3 +34,7 @@ if intraspector.get_debug_mode:
 
 ## Related Modules
 [React Fluxible Intraspector](https://github.com/BespokeInsights/react-fluxible-intraspector)
+
+
+## Thanks
+Proudly developed by [Bespoke Insights](http://BespokeInsights.github.io)
